@@ -31,16 +31,9 @@ Use the slider to adjust the volume level.
 Click on a song in the playlist.
 Click the "Play Selected" button.
 The selected song will start playing.
-Autoplaying Songs
+# Autoplaying Songs
 The app automatically moves to the next song in the playlist after a song finishes playing.
-Screenshots
+# Screenshots
 Include some screenshots of your app here to provide a visual representation.
-
-Troubleshooting
-If you encounter any issues while using the app, consider the following steps:
-
-Make sure you have the required Python packages installed: pygame, tkinter, PIL (Pillow).
-Check that your music files are in the selected directory and have the .mp3 extension.
-If you're building an executable, ensure you've followed the build steps correctly.
-Feedback and Contributions
+# Feedback and Contributions
 Your feedback is valuable! If you encounter any bugs or have suggestions for improvements, please feel free to submit an issue or a pull request.
