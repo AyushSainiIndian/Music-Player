@@ -34,6 +34,6 @@ The selected song will start playing.
 # Autoplaying Songs
 The app automatically moves to the next song in the playlist after a song finishes playing.
 # Screenshots
-Include some screenshots of your app here to provide a visual representation.
+![Screenshot](https://drive.google.com/uc?export=view&id=1bkz2QXE-k1xKv94ZCuIKHSuGBeCx6LOc)
 # Feedback and Contributions
 Your feedback is valuable! If you encounter any bugs or have suggestions for improvements, please feel free to submit an issue or a pull request.
