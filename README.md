@@ -18,14 +18,14 @@ The Music Player App GUI will appear.
 Click the "Fetch Songs" button.
 Choose the directory containing your music collection.
 The app will load all the available .mp3 files from the selected directory.
-#Music Playback
-#Play/Pause Button: 
+# Music Playback
+# Play/Pause Button: 
 Click this button to toggle between playing and pausing the current song.
-#Previous Button:
+# Previous Button:
 Click this button to play the previous song in the playlist.
-#Next Button: 
+# Next Button: 
 Click this button to play the next song in the playlist.
-#Volume Slider:
+# Volume Slider:
 Use the slider to adjust the volume level.
 # Playing a Selected Song
 Click on a song in the playlist.
